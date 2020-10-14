@@ -1,0 +1,6 @@
+# Ignore bundler gems.
+/vendor/
+
+/lib/csv
+
+/.idea
